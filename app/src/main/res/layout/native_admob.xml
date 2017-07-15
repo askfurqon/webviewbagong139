@@ -1,0 +1,11 @@
+<com.google.android.gms.ads.NativeExpressAdView android:id="@+id/adView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_centerHorizontal="true"
+    android:layout_gravity="center"
+    ads:adSize="360x132"
+    ads:adUnitId="@string/native_ad_unit_id"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+</com.google.android.gms.ads.NativeExpressAdView>
